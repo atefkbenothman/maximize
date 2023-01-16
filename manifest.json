@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "maximize",
+  "description": "make any video take up the fullscreen of the window",
+  "version": "1.0"
+}
